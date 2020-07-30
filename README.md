@@ -34,4 +34,6 @@ The original hugo-lithium-theme was released by Jonathan Rutheiser under [the MI
 Yihui Xie's fork was also released under the MIT license.
 Guess this version is also released under the MIT license.
 
+<img align = "center" src="https://egenn.github.io/imgs/hugo-valpro.png">
+
 Sweet ube ice cream love.
