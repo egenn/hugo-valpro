@@ -219,7 +219,7 @@ code {
   color: #888;
   text-decoration: none;
   transition: color 150ms ease;
-  margin: 0 15px;
+  margin: 0;
 }
 
 .footer-links a:hover,
