@@ -5,7 +5,7 @@ A simple [Hugo](https://gohugo.io/) theme forked from https://github.com/yihui/h
 
 # Usage
 
-Install blogdown if you don't have it already:
+Install blogdown, if you don't have it already:
 ```r
 remotes::install_github('rstudio/blogdown')  
 ```
@@ -17,7 +17,7 @@ Or, within some (new) project:
 blogdown::new_site(theme = 'egenn/hugo-valpro')
 ```
 
-For the full documentation, see this section in Yihui's **blogdown** book: https://bookdown.org/yihui/blogdown/themes.html
+For more documentation, take a look at the "themes" section in Yihui's [blogdownbook](https://bookdown.org/yihui/blogdown/themes.html)
 
 ## Features
 
@@ -26,7 +26,7 @@ For the full documentation, see this section in Yihui's **blogdown** book: https
 
 ## Changes
 
-Only a few - mostly made things dark and tight.
+Only a few - mostly made things darker and tighter.
 
 ## License
 
