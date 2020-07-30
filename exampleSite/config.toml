@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
-theme = "hugo-lithium"
+title = "You need to blog that down!"
+theme = "hugo-valpro"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -20,13 +20,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://twitter.com/rstudio"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "A piece of art built with blogdown and Hugo."
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
     highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
     highlightjsLang = ["r", "yaml"]
-    highlightjsTheme = "github"
+    highlightjsTheme = "ocean"
 
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
     MathJaxVersion = "2.7.5"
