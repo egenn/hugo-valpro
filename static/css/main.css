@@ -28,9 +28,14 @@ a {
   outline: none;
 }
 
-/* inline code */
+/* Inline code */
 code {
-  background: #353535;
+  background: #303030;
+}
+
+/* Code blocks */
+.hljs {
+  background: #303030;
 }
 
 .wrapper {
